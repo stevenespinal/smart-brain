@@ -1,4 +1,4 @@
-#smart-brain
+# smart-brain
 
 This full stack React Application serves to use the face recognition api. Simply grab a link to any image with a person's face and paste it into the input box. When you submit, it will display the image below as well as have a box surrounding that person's face. 
 
