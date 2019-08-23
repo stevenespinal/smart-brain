@@ -1,7 +1,6 @@
 # smart-brain
 
-This full stack React Application serves to use the face recognition api. Simply grab a link to any image with a person's face and paste it into the input box. When you submit, it will display the image below as well as have a box surrounding that person's face. 
-
+This full stack React Application serves to use the face recognition api. Simply grab a link to any image with a person's face and paste it into the input box. When you submit, it will display the image below as well as have a box surrounding that person's face. Using the technologies listed below, this program is able to handle secured user registration/signin without sending any sensitive information to the client side nor backend. BCrypt allows the app to hash the password to the server side in order to prevent any sensitive information from being retrieved through malicious attacks.
 
 # Technologies Used
 
